@@ -231,7 +231,7 @@ After seeding:
 
 ## 📝 License
 
-This project is for educational purposes as part of the ADSE II curriculum.
+This project is for educational purposes as part of the ADSE I curriculum.
 
 ## 🤝 Contributing
 
@@ -240,14 +240,6 @@ This project is for educational purposes as part of the ADSE II curriculum.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📞 Contact
-
-For any questions or support, please contact:
-
-- **Developer**: Daniyal
-- **Institution**: Aptech
-- **Course**: ADSE II (Semester 5)
 
 ---
 
