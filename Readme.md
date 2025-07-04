@@ -27,7 +27,7 @@ A comprehensive hotel management system built with React.js and Node.js.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/luxury-stay.git
+   git clone https://github.com/daniyalquest/Luxury-Stay.git
    cd luxury-stay
    ```
 
